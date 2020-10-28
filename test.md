@@ -1,3 +1,2 @@
-#ABC YYY OOOO
+#ABC
 #BBB
-#YYY
